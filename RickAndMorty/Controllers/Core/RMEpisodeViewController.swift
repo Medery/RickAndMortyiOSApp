@@ -7,6 +7,7 @@
 
 import UIKit
 
+/// Controller to show and seatch for Episode
 final class RMEpisodeViewController: UIViewController {
 
     override func viewDidLoad() {
