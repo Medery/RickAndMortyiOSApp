@@ -14,7 +14,7 @@ final class RMService {
     static let shared = RMService()
     
     /// Privatize constructor
-    private init() {}
+    private init() {} 
     
     /// Send Rick and Morty API
     /// - Parameters:
